@@ -1,4 +1,4 @@
-# Setting up Postman
+# Setting up eclipse
 
 
 ## Steps 
@@ -39,3 +39,5 @@
     ```sh
     eclipse
     ```
+8) The Eclipse icon may not appear in the application menu immediately. Please restart the operating system to facilitate the update.  
+    
