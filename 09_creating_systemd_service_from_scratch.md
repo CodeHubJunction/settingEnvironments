@@ -78,7 +78,7 @@ journalctl -u atlasmap -f  # Ctrl+C to stop following
 ```
 
 
-## 5 ⟩ Monitor & troubleshoot
+## 6 ⟩ Monitor & troubleshoot
 
 ```bash
 systemctl status myapp           # Health summary
@@ -97,7 +97,7 @@ systemctl stop myapp             # Graceful shutdown
 
 ---
 
-## 4 ⟩ Typical systemd Management Commands
+## 7 ⟩ Typical systemd Management Commands
 
 ```bash
 # Reload systemd to recognize new/updated unit files
@@ -118,7 +118,7 @@ journalctl -u atlasmap -f  # Ctrl+C to stop following
 
 ---
 
-## 5 ⟩ Fixing the "log is unwritable" Error
+## 8 ⟩ Fixing the "log is unwritable" Error
 
 ### Ownership Fix
 
@@ -145,7 +145,7 @@ Some distributions may enforce additional security policies. In most cases, corr
 
 ---
 
-## 6 ⟩ Verify the Fix
+## 9 ⟩ Verify the Fix
 
 After correcting ownership and permissions:
 
