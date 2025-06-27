@@ -6,6 +6,8 @@
 
 * **Absolute path** is safest (`/usr/bin/java`, `/usr/bin/python3`, `/opt/myapp/bin/server`).
 * Verify it runs correctly under the intended user before touching systemd.
+* Create a service file in /etc/systemd/system/
+* File Name atlasmap.service
 
 Example:
 ---
