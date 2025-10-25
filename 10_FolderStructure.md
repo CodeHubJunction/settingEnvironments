@@ -1,4 +1,6 @@
+## Folder structure
 
+```text
 ~/workspace/
 └── projects/
     ├── 01-learning/
@@ -14,3 +16,4 @@
     ├── 03-archive/         # old/parked projects
     |
     └── 99-scratch/         # quick experiments
+```
